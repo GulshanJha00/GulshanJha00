@@ -1,6 +1,5 @@
 # 💫 About Me:
-Chilling
-
+Hi, I'm Gulshan, a 3rd-year Computer Science student passionate about building scalable and impactful software. I primarily work with the MERN stack and Next.js to develop modern full-stack web applications. Alongside web development, I have hands-on experience with Docker, Kubernetes, AWS, and CI/CD pipelines, and I'm actively expanding my knowledge in System Design, Data Structures & Algorithms, and cloud-native technologies. I enjoy contributing to open-source projects, exploring new technologies, and solving real-world engineering challenges. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshankumar0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GulshanJha0) 
